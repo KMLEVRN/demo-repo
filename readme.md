@@ -1,2 +1,3 @@
 # echo 
 bazı yazılar
+elif
